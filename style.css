@@ -1,3 +1,4 @@
+
 *
 {
     margin: 0;
@@ -311,6 +312,22 @@ p.details
 {
     background: #ff004f;
 }
+
+/* adk */
+
+.adk
+{
+ text-align: center;
+ display: flex;  
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ justify-content: space-around;
+}
+p{
+    font-family: sans-serif;
+}
+
 /* -------------------contact---------------- */
 .contact-left
 {
